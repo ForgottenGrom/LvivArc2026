@@ -1,0 +1,5 @@
+[
+	{"table":"arctype","typeName":"Церкви та монастирі","id":1},
+	{"table":"arctype","typeName":"Оборонні споруди","id":2},
+	{"table":"arctype","typeName":"Цивільна архітектура","id":3}
+]
